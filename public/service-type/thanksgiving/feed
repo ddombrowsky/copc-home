@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Thanksgiving Eve</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/service-type/thanksgiving/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 23 Nov 2022 16:19:58 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>Thanksgiving Eve Service 2022</title>
+					<link>http://calvaryopcny.org/sermons/thanksgiving-eve-service-2022</link>
+					
+					<pubDate>Wed, 23 Nov 2022 16:19:58 +0000</pubDate>
+					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=914</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Pastor Thomas Trouwborst</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2022/11/Untitled-3-112422-8.58-AM.mp3"
+								length="45468026"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:23:41</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

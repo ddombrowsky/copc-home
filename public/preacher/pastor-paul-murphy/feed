@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Pastor Paul Murphy</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/preacher/pastor-paul-murphy/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 19 Nov 2023 15:09:32 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>The Greatness of the Great Commission</title>
+					<link>http://calvaryopcny.org/sermons/the-greatness-of-the-great-commission</link>
+					
+					<pubDate>Sun, 19 Nov 2023 15:09:32 +0000</pubDate>
+					<dc:creator><![CDATA[Pastor Paul Murphy]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1142</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Pastor Paul Murphy</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/11/The-Greatness-of-the-Great-Comission.mp3"
+								length="51725711"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:53:53</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

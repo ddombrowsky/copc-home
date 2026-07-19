@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Rev. Mark Sarver</title>
+		<link>https://calvaryopcny.org</link>
+		<atom:link href="https://calvaryopcny.org/preacher/pastor-mark-sarver/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 09 Aug 2020 10:40:26 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>The Special Care of God’s Providence: The Church</title>
+					<link>https://calvaryopcny.org/sermons/the-special-care-of-gods-providence-the-church</link>
+					
+					<pubDate>Sun, 09 Aug 2020 10:40:26 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Mark Sarver]]></dc:creator>
+					
+					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=385</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Mark Sarver</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2020/09/The-Special-Care-of-God%E2%80%99s-Providence-the-Church.mp3"
+								length="56285646"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:58:38</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

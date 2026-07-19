@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Rev. Peder Kling</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/preacher/rev-peder-kling/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 02 Nov 2025 15:58:11 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>Do All to the Glory of God</title>
+					<link>http://calvaryopcny.org/sermons/do-all-to-the-glory-of-god</link>
+					
+					<pubDate>Sun, 02 Nov 2025 15:58:11 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1534</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Peder Kling</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/11/Do-All-to-the-Glory-of-God.mp3"
+								length="57892671"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:40:48</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Come Thou Mount of Every Blessing</title>
+					<link>http://calvaryopcny.org/sermons/come-thou-mount-of-every-blessing</link>
+					
+					<pubDate>Sun, 21 Jul 2024 23:24:27 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1279</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Peder Kling</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/07/Come-Thou-Mount-of-Every-Blessing.mp3"
+								length="35719964"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:37:12</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Nighttime Sovereignty</title>
+					<link>http://calvaryopcny.org/sermons/nighttime-sovereignty</link>
+					
+					<pubDate>Sun, 17 Sep 2023 23:32:56 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1108</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Peder Kling</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/09/Sermon-Nighttime-Sovereignty.mp3"
+								length="51115281"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:35:30</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Advent is a Battleground</title>
+					<link>http://calvaryopcny.org/sermons/advent-is-a-battleground</link>
+					
+					<pubDate>Sun, 04 Dec 2022 20:16:28 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=924</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Peder Kling</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2022/12/Untitled-3-12422-12.46-PM.mp3"
+								length="54377870"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:37:46</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

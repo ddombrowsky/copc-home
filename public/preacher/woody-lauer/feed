@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Woody Lauer</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/preacher/woody-lauer/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 05 Mar 2023 01:13:40 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>Our Mission</title>
+					<link>http://calvaryopcny.org/sermons/our-mission</link>
+					
+					<pubDate>Sun, 05 Mar 2023 01:13:40 +0000</pubDate>
+					<dc:creator><![CDATA[OPC Missionary to Japan]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=985</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>OPC Missionary to Japan &amp; Woody Lauer</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/03/Sermon-Our-Mission.mp3"
+								length="50153557"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:34:50</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

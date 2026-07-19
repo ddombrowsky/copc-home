@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Kirk Gibbons</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/preacher/kirk-gibbons/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 02 Jan 2022 23:48:07 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>Set Your Minds On Things Above</title>
+					<link>http://calvaryopcny.org/sermons/set-your-minds-on-things-above</link>
+					
+					<pubDate>Sun, 02 Jan 2022 23:48:07 +0000</pubDate>
+					<dc:creator><![CDATA[Kirk Gibbons]]></dc:creator>
+					
+					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=703</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Kirk Gibbons</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2022/01/Untitled-1-1222-12.32-PM.mp3"
+								length="43398710"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:45:12</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>

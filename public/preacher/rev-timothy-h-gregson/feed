@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+	<channel>
+		<title>Calvary Church - Rev. Timothy H. Gregson</title>
+		<link>http://calvaryopcny.org</link>
+		<atom:link href="http://calvaryopcny.org/preacher/rev-timothy-h-gregson/feed" rel="self" type="application/rss+xml"/>
+		<description></description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 21 Jun 2026 15:02:00 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<copyright></copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author></itunes:author>
+		<itunes:summary></itunes:summary>
+		<itunes:owner>
+			<itunes:name></itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		
+					<itunes:category text="Religion &amp; Spirituality">
+				<itunes:category text="Christianity"/>
+			</itunes:category>
+				
+				<item>
+					
+					<title>What is the Value of Christ&#8217;s Blood?</title>
+					<link>http://calvaryopcny.org/sermons/what-is-the-value-of-christs-blood</link>
+					
+					<pubDate>Sun, 21 Jun 2026 15:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1700</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2026/06/What-is-the-Value-of-Christs-Blood.mp3"
+								length="34732122"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:26:32</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>An Uplifting Visitation</title>
+					<link>http://calvaryopcny.org/sermons/an-uplifting-visitation</link>
+					
+					<pubDate>Sun, 12 Apr 2026 15:21:27 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1615</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2026/04/An-Uplifting-Visitation.mp3"
+								length="53308077"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:37:22</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Sermon: What Does Immanuel Mean to You?</title>
+					<link>http://calvaryopcny.org/sermons/sermon-what-does-immanuel-mean-to-you</link>
+					
+					<pubDate>Sun, 07 Dec 2025 17:00:57 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1553</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/12/What-Does-Immanuel-Mean-to-You.mp3"
+								length="44263873"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:31:39</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>God Is Searching</title>
+					<link>http://calvaryopcny.org/sermons/god-is-searching</link>
+					
+					<pubDate>Sun, 05 Oct 2025 15:11:23 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1521</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/10/God-Is-Searching.mp3"
+								length="52484638"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:40:05</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>When God Waits On Us</title>
+					<link>http://calvaryopcny.org/sermons/when-god-waits-on-us</link>
+					
+					<pubDate>Sun, 29 Jun 2025 15:01:19 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1467</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/06/When-God-Waits-On-Us.mp3"
+								length="40058315"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:32:29</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>The Abundant Life&#8211;What Is It Really Like?</title>
+					<link>http://calvaryopcny.org/sermons/the-abundant-life-what-is-it-really-like</link>
+					
+					<pubDate>Sun, 22 Jun 2025 14:59:26 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1463</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/06/The-Abundant-Life-What-Is-It-Really-Like.mp3"
+								length="35232706"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:28:54</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>The Man Who Made Three Mistakes</title>
+					<link>http://calvaryopcny.org/sermons/the-man-who-made-three-mistakes</link>
+					
+					<pubDate>Sun, 04 May 2025 14:59:18 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1437</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/05/The-Man-Who-made-three-mistakes.mp3"
+								length="27919591"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:29:05</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Relying on the Right Resource</title>
+					<link>http://calvaryopcny.org/sermons/relying-on-the-right-resource</link>
+					
+					<pubDate>Sun, 01 Sep 2024 00:01:20 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1308</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/09/relying.mp3"
+								length="32318194"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:33:40</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Job&#8217;s Journal</title>
+					<link>http://calvaryopcny.org/sermons/jobs-journal</link>
+					
+					<pubDate>Sun, 25 Aug 2024 23:09:01 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1304</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/08/8.25.24-82824-6.58-PM.mp3"
+								length="38714224"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:40:19</itunes:duration>
+					
+									</item>
+			
+				<item>
+					
+					<title>Peter&#8217;s Predicament</title>
+					<link>http://calvaryopcny.org/sermons/peters-predicament</link>
+					
+					<pubDate>Sun, 14 Jul 2024 23:19:42 +0000</pubDate>
+					<dc:creator><![CDATA[Rev. Timothy H. Gregson]]></dc:creator>
+					
+					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1275</guid>
+					<description><![CDATA[]]></description>
+					<content:encoded><![CDATA[]]></content:encoded>
+					<itunes:summary><![CDATA[]]></itunes:summary>
+
+					<itunes:author>Rev. Timothy H. Gregson</itunes:author>
+					<itunes:subtitle></itunes:subtitle>
+					
+											<!--suppress CheckEmptyScriptTag -->
+						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/07/Peters-Predicament.mp3"
+								length="34097028"
+								type="audio/mpeg"/>
+					
+					<itunes:duration>00:35:31</itunes:duration>
+					
+									</item>
+			
+	</channel>
+</rss>
