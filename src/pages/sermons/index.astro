@@ -1,0 +1,48 @@
+---
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { getSermons, formatDate } from '../../lib/sermons.ts';
+
+const sermons = getSermons();
+---
+<SiteLayout
+	title="Sermons"
+	bodyClass="archive post-type-archive post-type-archive-wpfc_sermon wp-embed-responsive header-full-width full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-visible"
+>
+	{sermons.map((sermon) => (
+		<article class="wpfc-sermon wpfc_sermon type-wpfc_sermon status-publish entry">
+			<div class="wpfc-sermon-inner entry-wrap">
+				<div class="wpfc-sermon-main no-image">
+					<div class="wpfc-sermon-header ">
+						<div class="wpfc-sermon-header-main">
+							<h3 class="wpfc-sermon-title">
+								<a class="wpfc-sermon-title-text" href={`/sermons/${sermon.slug}`}>{sermon.title}</a>
+							</h3>
+							<div class="wpfc-sermon-meta-item wpfc-sermon-meta-date">
+								{formatDate(sermon.date)}
+							</div>
+						</div>
+					</div>
+					<div class="wpfc-sermon-footer">
+						{sermon.preacher && (
+							<div class="wpfc-sermon-meta-item wpfc-sermon-meta-preacher">
+								<span class="wpfc-sermon-meta-prefix">Preacher:</span>
+								<span class="wpfc-sermon-meta-text">{sermon.preacher}</span>
+							</div>
+						)}
+						{sermon.passage && (
+							<div class="wpfc-sermon-meta-item wpfc-sermon-meta-passage">
+								<span class="wpfc-sermon-meta-prefix">Passage:</span>
+								<span class="wpfc-sermon-meta-text">{sermon.passage}</span>
+							</div>
+						)}
+					</div>
+				</div>
+			</div>
+		</article>
+	))}
+	<div class="sm-pagination ast-pagination">
+		<nav class="navigation pagination" aria-label="Older sermons">
+			<div class="nav-links"><a class="next page-numbers" href="/sermons/archive">Sermon Archive &raquo;</a></div>
+		</nav>
+	</div>
+</SiteLayout>

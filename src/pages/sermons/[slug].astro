@@ -1,0 +1,63 @@
+---
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import { getSermons, formatDate } from '../../lib/sermons.ts';
+
+export function getStaticPaths() {
+	// Slugs that already exist as pre-rendered WordPress pages in
+	// public/sermons/ keep those pages; only new sermons get a route here.
+	return getSermons()
+		.filter((sermon) => !sermon.hasStaticPage)
+		.map((sermon) => ({ params: { slug: sermon.slug }, props: { sermon } }));
+}
+
+const { sermon } = Astro.props;
+---
+<SiteLayout
+	title={`${sermon.title} – Calvary Church`}
+	bodyClass="wpfc_sermon-template-default single single-wpfc_sermon wp-embed-responsive header-full-width full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-visible has-no-blocks"
+>
+	<article class="wpfc-sermon-single wpfc_sermon type-wpfc_sermon status-publish entry">
+		<div class="wpfc-sermon-single-inner">
+			<div class="wpfc-sermon-single-main">
+				<div class="wpfc-sermon-single-header">
+					<div class="wpfc-sermon-single-meta-item wpfc-sermon-single-meta-date">
+						{formatDate(sermon.date)}
+					</div>
+					<h2 class="wpfc-sermon-single-title">{sermon.title}</h2>
+					<div class="wpfc-sermon-single-meta">
+						{sermon.preacher && (
+							<div class="wpfc-sermon-single-meta-item wpfc-sermon-single-meta-preacher ">
+								<span class="wpfc-sermon-single-meta-prefix">Preacher:</span>
+								<span class="wpfc-sermon-single-meta-text">{sermon.preacher}</span>
+							</div>
+						)}
+						{sermon.passage && (
+							<div class="wpfc-sermon-single-meta-item wpfc-sermon-single-meta-passage">
+								<span class="wpfc-sermon-single-meta-prefix">Passage:</span>
+								<span class="wpfc-sermon-single-meta-text">{sermon.passage}</span>
+							</div>
+						)}
+					</div>
+				</div>
+				<div class="wpfc-sermon-single-media">
+					<div class="wpfc-sermon-single-video wpfc-sermon-single-video-embed">
+						<iframe
+							width="560"
+							height="315"
+							src={sermon.embedUrl}
+							title="YouTube video player"
+							frameborder="0"
+							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+							referrerpolicy="strict-origin-when-cross-origin"
+							allowfullscreen
+						></iframe>
+					</div>
+				</div>
+				<div class="wpfc-sermon-single-navigation">
+					<a href="/sermons" class="previous-sermon">&laquo; All Sermons</a>
+					<div></div>
+				</div>
+			</div>
+		</div>
+	</article>
+</SiteLayout>

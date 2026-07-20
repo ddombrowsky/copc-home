@@ -1,0 +1,23 @@
+# Sermons published since the move off WordPress.
+#
+# To add a sermon, copy this block to the TOP of the list, fill it in,
+# then run: npm run deploy
+#
+# - title: "Sermon title here"
+#   date: 2026-07-26
+#   youtube: https://youtu.be/VIDEO_ID
+#   preacher: Pastor Thomas Trouwborst   # optional
+#   passage: "John 3:16"                 # optional
+#   slug: custom-url-slug                # optional, defaults to slugified title
+
+- title: "Trigger Warning: Race!, Culture and Christianity: 6th commandment considerations"
+  date: 2026-07-12
+  youtube: https://www.youtube.com/embed/MvWueqPhnqw
+  preacher: Pastor Thomas Trouwborst
+  passage: "James 2:1-4"
+
+- title: "The story of God’s Sabbath, in JESUS–who rose from the dead on SUNDAY. Be happy."
+  date: 2026-06-28
+  youtube: https://www.youtube.com/embed/SbHbWL9BCGo
+  preacher: Pastor Thomas Trouwborst
+  passage: "Luke 4:16-19"
