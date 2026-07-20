@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Jesus</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/topics/jesus/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/topics/jesus/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 02 Jul 2023 15:40:12 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>A True and Lasting Liberty</title>
-					<link>http://calvaryopcny.org/sermons/1065</link>
+					<link>/sermons/1065</link>
 					
 					<pubDate>Sun, 02 Jul 2023 15:40:12 +0000</pubDate>
 					<dc:creator><![CDATA[Deacon Bob Gaza]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1065</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1065</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/07/Sermon-A-True-and-Lasting-Liberty.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/07/Sermon-A-True-and-Lasting-Liberty.mp3"
 								length="53192956"
 								type="audio/mpeg"/>
 					
@@ -58,12 +58,12 @@
 				<item>
 					
 					<title>A Month of Pride Leads to&#8230; But Humility and a Fear of the Lord Leads to&#8230;</title>
-					<link>http://calvaryopcny.org/sermons/a-month-of-pride-leads-to-but-humility-and-a-fear-of-the-lord-leads-to</link>
+					<link>/sermons/a-month-of-pride-leads-to-but-humility-and-a-fear-of-the-lord-leads-to</link>
 					
 					<pubDate>Sun, 25 Jun 2023 10:09:36 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1061</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1061</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -72,7 +72,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/06/Sermon-A-Month-of-Pride-Leads-to.-But-Humility-and-a-Fear-of-the-Lord-Leads-to.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/06/Sermon-A-Month-of-Pride-Leads-to.-But-Humility-and-a-Fear-of-the-Lord-Leads-to.mp3"
 								length="48401890"
 								type="audio/mpeg"/>
 					
@@ -84,12 +84,12 @@
 				<item>
 					
 					<title>No Pig Ever Had Truer Friends</title>
-					<link>http://calvaryopcny.org/sermons/no-pig-ever-had-truer-friends</link>
+					<link>/sermons/no-pig-ever-had-truer-friends</link>
 					
 					<pubDate>Sun, 11 Jun 2023 01:00:48 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1051</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1051</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -98,7 +98,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/06/Sermon-No-Pig-Ever-Had-Truer-Friends-1.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/06/Sermon-No-Pig-Ever-Had-Truer-Friends-1.mp3"
 								length="62430482"
 								type="audio/mpeg"/>
 					
@@ -110,12 +110,12 @@
 				<item>
 					
 					<title>Jesus Gives Twice: Law and Spirit</title>
-					<link>http://calvaryopcny.org/sermons/1045</link>
+					<link>/sermons/1045</link>
 					
 					<pubDate>Sun, 04 Jun 2023 01:13:00 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1045</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1045</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -124,7 +124,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/06/Sermon-Jesus-Gives-Twice-Law-and-Spirit.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/06/Sermon-Jesus-Gives-Twice-Law-and-Spirit.mp3"
 								length="59020771"
 								type="audio/mpeg"/>
 					
@@ -136,12 +136,12 @@
 				<item>
 					
 					<title>Jesus&#8217; Way, Truth and Life on this Day, Even For Mothers</title>
-					<link>http://calvaryopcny.org/sermons/jesus-way-truth-and-life-on-this-day-even-for-mothers</link>
+					<link>/sermons/jesus-way-truth-and-life-on-this-day-even-for-mothers</link>
 					
 					<pubDate>Sun, 14 May 2023 19:46:59 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1033</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1033</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -150,7 +150,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/05/Sermon-Jesus-Way-Truth-and-Life-on-this-Day-Even-For-Mothers.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/05/Sermon-Jesus-Way-Truth-and-Life-on-this-Day-Even-For-Mothers.mp3"
 								length="50657615"
 								type="audio/mpeg"/>
 					
@@ -162,12 +162,12 @@
 				<item>
 					
 					<title>The Wonderful, Beautiful, and Majestic Jesus Strikes a Nerve, Both Then and Now</title>
-					<link>http://calvaryopcny.org/sermons/the-wonderful-beautiful-and-majestic-jesus-strikes-a-nerve-both-then-and-now</link>
+					<link>/sermons/the-wonderful-beautiful-and-majestic-jesus-strikes-a-nerve-both-then-and-now</link>
 					
 					<pubDate>Sun, 07 May 2023 00:40:47 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1029</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1029</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -176,7 +176,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/05/Sermon-The-Wonderful-Beautiful-and-Majestic-Jesus-Strikes-a-Nerve-Both-Then-and-Now.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/05/Sermon-The-Wonderful-Beautiful-and-Majestic-Jesus-Strikes-a-Nerve-Both-Then-and-Now.mp3"
 								length="61590384"
 								type="audio/mpeg"/>
 					

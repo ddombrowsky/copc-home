@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Peace</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/topics/peace/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/topics/peace/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 30 Apr 2023 00:07:11 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>Help For Your Troubled Heart</title>
-					<link>http://calvaryopcny.org/sermons/help-for-your-troubled-heart</link>
+					<link>/sermons/help-for-your-troubled-heart</link>
 					
 					<pubDate>Sun, 30 Apr 2023 00:07:11 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1025</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1025</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/05/Sermon-Help-For-Your-Troubled-Heart.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/05/Sermon-Help-For-Your-Troubled-Heart.mp3"
 								length="46265909"
 								type="audio/mpeg"/>
 					
@@ -58,12 +58,12 @@
 				<item>
 					
 					<title>Truth before friends? Rather, peace and friendship before we see the Lord.</title>
-					<link>http://calvaryopcny.org/sermons/truth-before-friends-rather-peace-and-friendship-before-we-see-the-lord</link>
+					<link>/sermons/truth-before-friends-rather-peace-and-friendship-before-we-see-the-lord</link>
 					
 					<pubDate>Sun, 26 Apr 2020 12:01:40 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=324</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=324</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -72,7 +72,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2020/05/Truth-before-friends-Rather-peace-and-friendship-before-we-see-the-Lord.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2020/05/Truth-before-friends-Rather-peace-and-friendship-before-we-see-the-Lord.mp3"
 								length="59496409"
 								type="audio/mpeg"/>
 					

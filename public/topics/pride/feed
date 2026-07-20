@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Pride</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/topics/pride/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/topics/pride/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 25 Jun 2023 10:09:36 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>A Month of Pride Leads to&#8230; But Humility and a Fear of the Lord Leads to&#8230;</title>
-					<link>http://calvaryopcny.org/sermons/a-month-of-pride-leads-to-but-humility-and-a-fear-of-the-lord-leads-to</link>
+					<link>/sermons/a-month-of-pride-leads-to-but-humility-and-a-fear-of-the-lord-leads-to</link>
 					
 					<pubDate>Sun, 25 Jun 2023 10:09:36 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1061</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1061</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/06/Sermon-A-Month-of-Pride-Leads-to.-But-Humility-and-a-Fear-of-the-Lord-Leads-to.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/06/Sermon-A-Month-of-Pride-Leads-to.-But-Humility-and-a-Fear-of-the-Lord-Leads-to.mp3"
 								length="48401890"
 								type="audio/mpeg"/>
 					

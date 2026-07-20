@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Repentance</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/topics/repentance/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/topics/repentance/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 20 Oct 2024 00:39:24 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>An Election Day sermon: Make America repentant again &#038; make America second &#038; Pray</title>
-					<link>http://calvaryopcny.org/sermons/an-election-day-sermon-make-america-repentant-again-make-america-second-pray</link>
+					<link>/sermons/an-election-day-sermon-make-america-repentant-again-make-america-second-pray</link>
 					
 					<pubDate>Sun, 20 Oct 2024 00:39:24 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1337</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1337</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/10/10.20.24-102024-8.09-PM.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2024/10/10.20.24-102024-8.09-PM.mp3"
 								length="38310057"
 								type="audio/mpeg"/>
 					

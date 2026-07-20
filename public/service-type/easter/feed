@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Easter</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/service-type/easter/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/service-type/easter/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 20 Apr 2025 15:12:44 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>The Resurrection Changes Everything</title>
-					<link>http://calvaryopcny.org/sermons/the-resurrection-changes-everything</link>
+					<link>/sermons/the-resurrection-changes-everything</link>
 					
 					<pubDate>Sun, 20 Apr 2025 15:12:44 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1429</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1429</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/04/The-Resurrection-Changes-Everthing.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2025/04/The-Resurrection-Changes-Everthing.mp3"
 								length="26825792"
 								type="audio/mpeg"/>
 					
@@ -57,12 +57,12 @@
 				<item>
 					
 					<title>Resurrection: This present reality</title>
-					<link>http://calvaryopcny.org/sermons/resurrection-this-present-reality</link>
+					<link>/sermons/resurrection-this-present-reality</link>
 					
 					<pubDate>Sun, 09 Apr 2023 23:34:21 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1008</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1008</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -71,7 +71,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/04/Sermon-Resurrection-this-present-reality.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/04/Sermon-Resurrection-this-present-reality.mp3"
 								length="49553576"
 								type="audio/mpeg"/>
 					

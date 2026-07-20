@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Rev. Peder Kling</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/preacher/rev-peder-kling/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/preacher/rev-peder-kling/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 02 Nov 2025 15:58:11 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>Do All to the Glory of God</title>
-					<link>http://calvaryopcny.org/sermons/do-all-to-the-glory-of-god</link>
+					<link>/sermons/do-all-to-the-glory-of-god</link>
 					
 					<pubDate>Sun, 02 Nov 2025 15:58:11 +0000</pubDate>
 					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1534</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1534</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2025/11/Do-All-to-the-Glory-of-God.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2025/11/Do-All-to-the-Glory-of-God.mp3"
 								length="57892671"
 								type="audio/mpeg"/>
 					
@@ -57,12 +57,12 @@
 				<item>
 					
 					<title>Come Thou Mount of Every Blessing</title>
-					<link>http://calvaryopcny.org/sermons/come-thou-mount-of-every-blessing</link>
+					<link>/sermons/come-thou-mount-of-every-blessing</link>
 					
 					<pubDate>Sun, 21 Jul 2024 23:24:27 +0000</pubDate>
 					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1279</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1279</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -71,7 +71,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2024/07/Come-Thou-Mount-of-Every-Blessing.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2024/07/Come-Thou-Mount-of-Every-Blessing.mp3"
 								length="35719964"
 								type="audio/mpeg"/>
 					
@@ -82,12 +82,12 @@
 				<item>
 					
 					<title>Nighttime Sovereignty</title>
-					<link>http://calvaryopcny.org/sermons/nighttime-sovereignty</link>
+					<link>/sermons/nighttime-sovereignty</link>
 					
 					<pubDate>Sun, 17 Sep 2023 23:32:56 +0000</pubDate>
 					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=1108</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=1108</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -96,7 +96,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2023/09/Sermon-Nighttime-Sovereignty.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2023/09/Sermon-Nighttime-Sovereignty.mp3"
 								length="51115281"
 								type="audio/mpeg"/>
 					
@@ -107,12 +107,12 @@
 				<item>
 					
 					<title>Advent is a Battleground</title>
-					<link>http://calvaryopcny.org/sermons/advent-is-a-battleground</link>
+					<link>/sermons/advent-is-a-battleground</link>
 					
 					<pubDate>Sun, 04 Dec 2022 20:16:28 +0000</pubDate>
 					<dc:creator><![CDATA[Rev. Peder Kling]]></dc:creator>
 					
-					<guid isPermaLink="false">https://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=924</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=924</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -121,7 +121,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2022/12/Untitled-3-12422-12.46-PM.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2022/12/Untitled-3-12422-12.46-PM.mp3"
 								length="54377870"
 								type="audio/mpeg"/>
 					

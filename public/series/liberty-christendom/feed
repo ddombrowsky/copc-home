@@ -8,8 +8,8 @@
 
 	<channel>
 		<title>Calvary Church - Liberty &amp; Christendom</title>
-		<link>http://calvaryopcny.org</link>
-		<atom:link href="http://calvaryopcny.org/series/liberty-christendom/feed" rel="self" type="application/rss+xml"/>
+		<link>/</link>
+		<atom:link href="/series/liberty-christendom/feed" rel="self" type="application/rss+xml"/>
 		<description></description>
 		<language>en-US</language>
 		<lastBuildDate>Sun, 26 Jul 2020 11:39:46 +0000</lastBuildDate>
@@ -32,12 +32,12 @@
 				<item>
 					
 					<title>1776 Postscript: Jesus &#062; Ethnicity.</title>
-					<link>http://calvaryopcny.org/sermons/1776-postscript-jesus-ethnicity</link>
+					<link>/sermons/1776-postscript-jesus-ethnicity</link>
 					
 					<pubDate>Sun, 26 Jul 2020 11:39:46 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=376</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=376</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -46,7 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2020/08/1776-Postscript-Jesus-Ethnicity..mp3"
+						<enclosure url="/wp-content/uploads/sermons/2020/08/1776-Postscript-Jesus-Ethnicity..mp3"
 								length="65963909"
 								type="audio/mpeg"/>
 					
@@ -57,12 +57,12 @@
 				<item>
 					
 					<title>1776, Liberty &#038; Christendom(4): America&#8217;s sins &#038;citizenship in a kingdom without end</title>
-					<link>http://calvaryopcny.org/sermons/1776-liberty-christendom4-americas-sins-citizenship-in-a-kingdom-without-end</link>
+					<link>/sermons/1776-liberty-christendom4-americas-sins-citizenship-in-a-kingdom-without-end</link>
 					
 					<pubDate>Sun, 19 Jul 2020 11:33:33 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=373</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=373</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -71,7 +71,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2020/07/1776-Liberty-Christendom4.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2020/07/1776-Liberty-Christendom4.mp3"
 								length="53967852"
 								type="audio/mpeg"/>
 					
@@ -82,12 +82,12 @@
 				<item>
 					
 					<title>1776, Liberty &#038; Christendom (1): guilt, privilege and thanksgiving</title>
-					<link>http://calvaryopcny.org/sermons/1776-liberty-christendom-1-guilt-privilege-and-thanksgiving</link>
+					<link>/sermons/1776-liberty-christendom-1-guilt-privilege-and-thanksgiving</link>
 					
 					<pubDate>Sun, 28 Jun 2020 11:32:44 +0000</pubDate>
 					<dc:creator><![CDATA[Pastor Thomas Trouwborst]]></dc:creator>
 					
-					<guid isPermaLink="false">http://calvaryopcny.org/?post_type=wpfc_sermon&#038;p=359</guid>
+					<guid isPermaLink="false">/?post_type=wpfc_sermon&#038;p=359</guid>
 					<description><![CDATA[]]></description>
 					<content:encoded><![CDATA[]]></content:encoded>
 					<itunes:summary><![CDATA[]]></itunes:summary>
@@ -96,7 +96,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="http://calvaryopcny.org/wp-content/uploads/sermons/2020/07/1776-Liberty-Christendom-1.mp3"
+						<enclosure url="/wp-content/uploads/sermons/2020/07/1776-Liberty-Christendom-1.mp3"
 								length="56500058"
 								type="audio/mpeg"/>
 					

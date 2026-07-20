@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Calvary Church	</title>
-	<atom:link href="https://calvaryopcny.org/comments/feed" rel="self" type="application/rss+xml" />
-	<link>https://calvaryopcny.org</link>
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 Jul 2026 15:54:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
