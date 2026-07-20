@@ -5,8 +5,17 @@
 interface Props {
 	title: string;
 	bodyClass: string;
+	mainClass?: string;
+	sidebar?: boolean;
+	activeNav?: string;
 }
-const { title, bodyClass } = Astro.props;
+const {
+	title,
+	bodyClass,
+	mainClass = 'content wpfc-sermon-container wpfc-genesis ',
+	sidebar = true,
+	activeNav = '/sermons',
+} = Astro.props;
 ---
 <html lang="en-US">
 <head>
@@ -73,18 +82,18 @@ const { title, bodyClass } = Astro.props;
 <script is:inline type="text/javascript" src="/wp-content/themes/aspire-pro/js/global.js?ver=1.0.0" id="aspire-global-js"></script>
 <link rel="icon" href="/wp-content/themes/aspire-pro/images/favicon.ico" />
 </head>
-<body class={bodyClass} itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="/">Calvary Church</a></p></div><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-top" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="/about" itemprop="url"><span itemprop="name">About</span></a></li>
+<body class={bodyClass} itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="/">Calvary Church</a></p></div><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-top" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-34" class={`menu-item menu-item-type-post_type menu-item-object-page ${activeNav === '/about' ? 'current-menu-item page_item page-item-29 current_page_item ' : ''}menu-item-34`}><a href="/about" aria-current={activeNav === '/about' ? 'page' : undefined} itemprop="url"><span itemprop="name">About</span></a></li>
 <li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="/events" itemprop="url"><span itemprop="name">Events</span></a></li>
-<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-211"><a href="/sermons" aria-current="page" itemprop="url"><span itemprop="name">Sermons</span></a></li>
+<li id="menu-item-211" class={`menu-item menu-item-type-custom menu-item-object-custom ${activeNav === '/sermons' ? 'current-menu-item ' : ''}menu-item-211`}><a href="/sermons" aria-current={activeNav === '/sermons' ? 'page' : undefined} itemprop="url"><span itemprop="name">Sermons</span></a></li>
 <li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="/what-we-believe" itemprop="url"><span itemprop="name">What We Believe</span></a></li>
 <li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="/resources" itemprop="url"><span itemprop="name">Resources</span></a></li>
 <li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a target="_blank" rel="noopener" href="https://www.facebook.com/Calvary-Orthodox-Presbyterian-Church-Schenectady-NY-159322384080044/" itemprop="url"><span itemprop="name">Facebook</span></a></li>
 <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="/give" itemprop="url"><span itemprop="name">Give</span></a></li>
 </ul></div></nav></div></header><div class="site-inner">
-<div class="content-sidebar-wrap"><main class="content wpfc-sermon-container wpfc-genesis " id="genesis-content">
+<div class="content-sidebar-wrap"><main class={mainClass} id="genesis-content">
 <slot />
-</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar" id="genesis-sidebar-primary"><section id="search-2" class="widget widget_search"><div class="widget-wrap"><form class="search-form" method="get" action="/" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website" itemprop="query-input"><input class="search-form-submit" type="submit" value="Search"><meta content="/?s={'{s}'}" itemprop="target"></form></div></section>
-</aside></div>
+</main>{sidebar && <aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar" id="genesis-sidebar-primary"><section id="search-2" class="widget widget_search"><div class="widget-wrap"><form class="search-form" method="get" action="/" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website" itemprop="query-input"><input class="search-form-submit" type="submit" value="Search"><meta content="/?s={s}" itemprop="target"></form></div></section>
+</aside>}</div>
 </div><div class="footer-widgets" id="genesis-footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="custom_html-13" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a id="contact"></a>
 
 <p>Calvary Orthodox Presbyterian Church</p>
