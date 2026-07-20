@@ -46,10 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="/wp-content/uploads/sermons/2024/10/Reformation-2024.mp3"
-								length="31391160"
-								type="audio/mpeg"/>
-					
+											
 					<itunes:duration>00:32:42</itunes:duration>
 											<itunes:keywords>Reformation, The Word</itunes:keywords>
 					

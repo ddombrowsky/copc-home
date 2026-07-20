@@ -46,10 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="/wp-content/uploads/sermons/2020/09/The-Warrior-in-the-Bloody-Robe.mp3"
-								length="54266067"
-								type="audio/mpeg"/>
-					
+											
 					<itunes:duration>00:28:16</itunes:duration>
 					
 									</item>

@@ -46,10 +46,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="/wp-content/uploads/sermons/2024/12/12.24.24-122424-6.39-PM.mp3"
-								length="14842066"
-								type="audio/mpeg"/>
-					
+											
 					<itunes:duration>00:15:27</itunes:duration>
 					
 									</item>
@@ -71,10 +68,7 @@
 					<itunes:subtitle></itunes:subtitle>
 					
 											<!--suppress CheckEmptyScriptTag -->
-						<enclosure url="/wp-content/uploads/sermons/2022/12/Christmas-eve-meditation-122422-10.21-PM.mp3"
-								length="26541162"
-								type="audio/mpeg"/>
-					
+											
 					<itunes:duration>00:13:49</itunes:duration>
 					
 									</item>
